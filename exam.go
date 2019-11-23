@@ -8,5 +8,6 @@ func main() {
 	fmt.Println()
 	fmt.Println(`\n \t Backticks` [0])
 	fmt.Println(len(`\n \t Backticks`))
+	fmt.Println("Hello" + )
 
 }

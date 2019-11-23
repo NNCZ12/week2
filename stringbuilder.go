@@ -5,4 +5,7 @@ import (
 	"strings"
 )
 
+func main() {
+	var b strings.Builder
+}
 

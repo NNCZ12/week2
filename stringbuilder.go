@@ -9,7 +9,8 @@ func main() {
 	var b strings.Builder
 	b.WriteString("Hello"
 	b.WriteString(" ")
-	b.
+	b.WriteString("World")
+	
 )
 }
 

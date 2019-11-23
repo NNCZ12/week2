@@ -7,5 +7,7 @@ import (
 
 func main() {
 	var b strings.Builder
+	b.WriteString("Hello"
+)
 }
 

@@ -11,5 +11,7 @@ func main () {
 	}
 	fmt.Println("a",time.Since(startA))
 
-	
+	startB := time.Now()
+
+
 }

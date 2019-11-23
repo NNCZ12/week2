@@ -12,6 +12,5 @@ func main() {
 	b.WriteString("World")
 	fmt.Println(b.String())
 
-)
 }
 

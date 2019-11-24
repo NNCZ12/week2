@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"stings"
+	"strings"
 )
 
 func main() {

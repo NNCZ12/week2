@@ -7,5 +7,5 @@ import (
 )
  func main () {
 	 fmt.Println(strings.HasSuffix("Hello World", "World"))
-	 fmt.Println(strings.HasSuffix("Hello W"))
+	 fmt.Println(strings.HasSuffix("Hello World", "World"))
  }

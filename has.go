@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func main () {
+func main() {
 	fmt.Println(strings.HasPrefix("Hello World", "hello"))
 	fmt.Println(strings.HasPrefix("Hello World", "Hello"))
 }

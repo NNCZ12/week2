@@ -6,5 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(atring.ContainsAny("Hello World", "hi"))
+	fmt.Println(strings.ContainsAny("Hello World", "hi"))
+	fmt.Println(strings.ContainsAny("Hello World", "Hi"))
 }
